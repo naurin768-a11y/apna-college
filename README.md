@@ -1,4 +1,4 @@
 # apna-college
 learning
 <br>
-author-shradha khapra
+author-shradha khapra(aman)
